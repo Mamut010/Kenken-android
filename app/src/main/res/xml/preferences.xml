@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreferenceCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:defaultValue="true"
+        android:key="@string/preference_show_rule"
+        android:title="@string/title_show_rule_preference"/>
+</PreferenceScreen>
